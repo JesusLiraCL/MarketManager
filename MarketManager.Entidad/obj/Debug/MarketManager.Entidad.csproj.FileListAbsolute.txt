@@ -1,0 +1,6 @@
+C:\Users\Andryus Guaiquirima\Desktop\MarketManager\MarketManager.Entidad\bin\Debug\MarketManager.Entidad.dll
+C:\Users\Andryus Guaiquirima\Desktop\MarketManager\MarketManager.Entidad\bin\Debug\MarketManager.Entidad.pdb
+C:\Users\Andryus Guaiquirima\Desktop\MarketManager\MarketManager.Entidad\obj\Debug\MarketManager.Entidad.csproj.AssemblyReference.cache
+C:\Users\Andryus Guaiquirima\Desktop\MarketManager\MarketManager.Entidad\obj\Debug\MarketManager.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Andryus Guaiquirima\Desktop\MarketManager\MarketManager.Entidad\obj\Debug\MarketManager.Entidad.dll
+C:\Users\Andryus Guaiquirima\Desktop\MarketManager\MarketManager.Entidad\obj\Debug\MarketManager.Entidad.pdb
